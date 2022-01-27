@@ -1,0 +1,40 @@
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\WebApplication12.exe
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\WebApplication12.deps.json
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\WebApplication12.runtimeconfig.json
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\WebApplication12.runtimeconfig.dev.json
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\WebApplication12.dll
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\WebApplication12.pdb
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.csproj.AssemblyReference.cache
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.AssemblyInfoInputs.cache
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.AssemblyInfo.cs
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication12.StaticWebAssets.Manifest.cache
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication12.StaticWebAssets.xml
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication12.styles.css
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.RazorTargetAssemblyInfo.cache
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.dll
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.pdb
+C:\Users\My Laptop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.genruntimeconfig.cache
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\WebApplication12.StaticWebAssets.xml
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\WebApplication12.exe
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\WebApplication12.deps.json
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\WebApplication12.runtimeconfig.json
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\WebApplication12.runtimeconfig.dev.json
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\WebApplication12.dll
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\bin\Debug\netcoreapp3.1\WebApplication12.pdb
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.csproj.AssemblyReference.cache
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.AssemblyInfoInputs.cache
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.AssemblyInfo.cs
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.csproj.CoreCompileInputs.cache
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication12.StaticWebAssets.Manifest.cache
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.RazorTargetAssemblyInfo.cache
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.dll
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.pdb
+C:\Users\basel\Desktop\source\repos\WebApplication12\WebApplication12\obj\Debug\netcoreapp3.1\WebApplication12.genruntimeconfig.cache
